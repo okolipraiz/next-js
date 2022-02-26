@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+.container img{
+    position: relative;
+    background-color: gainsboro;
+    margin-top: 10px;
+    border-radius: 50%;
+}
